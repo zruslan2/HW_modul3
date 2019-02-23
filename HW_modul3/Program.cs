@@ -161,7 +161,7 @@ namespace HW_modul3
             Console.ForegroundColor = ConsoleColor.White;
             int n = 456;
             Console.WriteLine(n);
-            Console.WriteLine(n.ToString().Reverse().ToArray());
+            Console.WriteLine(n.ToString().Reverse().ToArray());            
         }
     }
 }
